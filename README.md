@@ -1,4 +1,4 @@
-![hover](Sumil-logos.jpeg)
+![hover](logo.png)
 ## Description :memo:
 SUMIL is a platform in which anyone can gain experience in an exponential way :rocket:. It consists in a webpage where a person that wants to gain experience searches for tasks or small projects that companies have shared in exchange of points :arrow_up:, awards :trophy:, money :moneybag: or even Miamicoins :chart_with_upwards_trend:.
 
@@ -37,6 +37,7 @@ SUMIL is a platform in which anyone can gain experience in an exponential way :r
 1) Access to our webpage
 ![hover](inicial.png)
 2) Create your profile
+![hover](profile.png)
 3) Search for a project suited for you
 ![hover](search.png)
 4) Apply to the project
