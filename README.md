@@ -57,21 +57,21 @@ http://127.0.0.1:8000/docs
 
 
 ## Creators ✒️
-![hover](/images/jm.png)
+<img src="./images/jm.png" width="200">
 <details  style="user-select: none;">
 	<summary>
 		<strong style="user-select: none;cursor: pointer;">Jessica Mercedes</strong> - <a href="https://www.linkedin.com/in/jessicamercedes/" target="_blank">linkedin</a>
 	</summary>
 </details>
 
-![hover](/images/jdp.png)
+<img src="./images/jdp.png" width="200">
 <details  style="user-select: none;">
 	<summary>
 		<strong style="user-select: none;cursor: pointer;">Juan David Peña</strong> - <a href="https://www.linkedin.com/in/medranojdp/" target="_blank">linkedin</a>
 	</summary>
 </details>
 
-![hover](/images/aer.png)
+<img src="./images/aer.png" width="200">
 <details  style="user-select: none;">
 	<summary>
 		<strong style="user-select: none;cursor: pointer;">Adriana Echeverri</strong> - <a href="https://www.linkedin.com/in/adriana-echeverri-4a807118a/" target="_blank">linkedin</a>
