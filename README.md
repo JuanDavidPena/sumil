@@ -1,4 +1,4 @@
-# SUMIL :briefcase:
+![hover](Sumil-logos.jpeg)
 ## Description :memo:
 SUMIL is a platform in which anyone can gain experience in an exponential way :rocket:. It consists in a webpage where a person that wants to gain experience searches for tasks or small projects that companies have shared in exchange of points :arrow_up:, awards :trophy:, money :moneybag: or even Miamicoins :chart_with_upwards_trend:.
 
@@ -16,24 +16,44 @@ SUMIL is a platform in which anyone can gain experience in an exponential way :r
 * Mongo :leaves:
 
 
-## Achitecture - Files
+## File description
 * *.env* file with the user and passwod to access the database
 * *project.py* Object model for project's
 * *developer.py* Object model for developer's
 * *company.py* Object model for company's
 * *api_integration.py* API routes and github integration to obtain information from repos
 
+## How to use - Company side :office:
+1) Access to our webpage
+![hover](inicial.png)
+2) Create your profile
+3) Upload a project
+![hover](createproject.png)
+4) Check for stats
+5) When someone finishes check their code
+6) Reward them
 
-## Compile
-build the binary
-```cmd
-$ make build MAIN=<name of main file to build>
-$ ./sorting
+## How to use - Developer side :computer:
+1) Access to our webpage
+![hover](inicial.png)
+2) Create your profile
+3) Search for a project suited for you
+![hover](search.png)
+4) Apply to the project
+5) Code and do a pull request
+6) Notify you have finished
+7) Wait for an answer!
+
+## Test
+ ### Test the API
 ```
-build the binary executed and delete
-```cmd
-$ make run MAIN=<name of main file to run>
+$ uvicorn api_integration:app --reload
 ```
+On your browser search for: 
+```
+http://127.0.0.1:8000/docs
+```
+
 
 ## Authors ✒️
 <details  style="user-select: none;">
